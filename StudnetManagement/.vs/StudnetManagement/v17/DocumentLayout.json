@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\models\\studentstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\models\\studentstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\models\\istudentstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\models\\istudentstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|c:\\users\\sofo\\documents\\work\\commercial bank of ethiopia (cbe)\\student management api using mongo\\studnetmanagement\\studnetmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7A3C2-1DB4-46EF-B886-AAB46D700988}|StudnetManagement\\StudentManagement.csproj|solutionrelative:studnetmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudnetManagement\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:44:58.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Program.cs",
+              "RelativeToolTip": "StudnetManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:27:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudnetManagement\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:32:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudnetManagement\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:29:35.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentStoreDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\StudentStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Models\\StudentStoreDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\StudentStoreDatabaseSettings.cs",
+              "RelativeToolTip": "StudnetManagement\\Models\\StudentStoreDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:22:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentStoreDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\IStudentStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Models\\IStudentStoreDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\IStudentStoreDatabaseSettings.cs",
+              "RelativeToolTip": "StudnetManagement\\Models\\IStudentStoreDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:19:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudnetManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\appsettings.json",
+              "RelativeToolTip": "StudnetManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T04:04:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudnetManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sofo\\Documents\\Work\\Commercial Bank Of Ethiopia (CBE)\\Student management api using Mongo\\StudnetManagement\\StudnetManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudnetManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:53:04.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
