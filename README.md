@@ -37,7 +37,7 @@ A full-stack web application for managing student information, built with **Reac
 
 ### Frontend Setup
 
-```bash
+``bash
 cd aspcrud-frontend
 npm install
 npm start
@@ -64,7 +64,7 @@ npm start
 }
 
 
-```bash
+``bash
 cd StudnetManagement
 cd StudnetManagement
 dotnet restore
@@ -72,6 +72,3 @@ dotnet run
 
 🙌 Acknowledgements
 Inspired by student management systems used in real-world academic institutions.
-
-📄 License
-This project is licensed under the MIT License.
